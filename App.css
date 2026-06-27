@@ -1,0 +1,31 @@
+.landing-page {
+  background-image: url('https://images.unsplash.com/photo-1466692476877-33207a057cb3?auto=format&fit=crop&q=80&w=2000');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.get-started-btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.get-started-btn:hover {
+  background-color: #45a049;
+}
