@@ -1,3 +1,4 @@
-# Paradise Nursery
+# Emotion Detector
 
-A React application for a plant shop called Paradise Nursery.
+This project is an AI-based web application that detects emotions from text using the Watson NLP library. 
+It analyzes the text and provides scores for anger, disgust, fear, joy, and sadness, identifying the dominant emotion.
