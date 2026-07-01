@@ -1,4 +1,2 @@
-# Emotion Detector
-
-This project is an AI-based web application that detects emotions from text using the Watson NLP library. 
-It analyzes the text and provides scores for anger, disgust, fear, joy, and sadness, identifying the dominant emotion.
+# Full-Stack Development Capstone Project - Cars Dealership
+This project is a responsive web application for a national car retailer in the U.S. It uses Django, React, Node.js, MongoDB, and SQLite, and is deployed via IBM Cloud Code Engine with Docker and Kubernetes.
